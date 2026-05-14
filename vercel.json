@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ai-api-tester-demo",
+  "builds": [
+    {
+      "src": "index.html",
+      "use": "@vercel/static"
+    }
+  ]
+}
